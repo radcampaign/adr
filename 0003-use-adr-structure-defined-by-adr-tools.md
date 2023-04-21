@@ -10,7 +10,7 @@ Proposed
 
 ADRs are a formal device, and require a regular structure. Any tools
 that can automate that structure will make it easier for any team member
-to contribute ADRs while following that structre.
+to contribute ADRs while following that structure.
 
 ## Decision
 

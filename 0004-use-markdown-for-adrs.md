@@ -21,5 +21,5 @@ We will compose ADRs in Markdown.
 - ADRs will be easy to create in familiar code editors, and will appear
   with rich formatting on Github.
 - It is not guaranteed that Markdown will capture the structure of ADRs
-  in a way that is machine-parseable, this could present challenges if
+  in a way that is machine-parseable; this could present challenges if
   we decide to migrate to some other way of managing this content.
