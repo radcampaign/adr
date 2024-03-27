@@ -22,6 +22,9 @@ the following information
 - Hosting platform with dashboard link, or at minimum project name
 - CI information with link to dashboard/logs
 - Local development instructions
+  - how to install locally
+  - how to get remote database/files
+- Deployment instructions
 - Description of any other project customizations including custom
   theme/module/plugin locations
 
