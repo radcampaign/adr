@@ -27,6 +27,8 @@ the following information
 - Deployment instructions
 - Description of any other project customizations including custom
   theme/module/plugin locations
+- Sites with How Tos/Instructions Google Docs for clients should
+  include the link to the document
 
 ## Consequences
 
