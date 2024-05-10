@@ -20,3 +20,5 @@ format for ADRs, as specified by [`adr-tools`](https://github.com/npryce/adr-too
 * [3. Use ADR structure defined by `adr-tools`](0003-use-adr-structure-defined-by-adr-tools.md)
 * [4. Use Markdown for ADRs](0004-use-markdown-for-adrs.md)
 * [5. Propose new ADRs as pull requests](0005-propose-new-adrs-as-pull-requests.md)
+* [6. README is required](0006-readme-is-required.md)
+* [7. README sections for website projects](0007-readme-sections-for-website-projects.md)
